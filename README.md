@@ -7,7 +7,7 @@ This dataset is for a fictional non-profit organization and my goal was to gauge
 Bar graphs were used to simply and quickly show the donation amounts by year and month.
 
 ## Tools Used
-* **Python** for data cleaning and analysis.
+**Python** for data cleaning and analysis.
 
 ## Project Screenshots
 
